@@ -1,0 +1,7 @@
+{
+  "name": "parcel-import-meta-url-bug",
+  "devDependencies": {
+    "barely-a-dev-server": "^0.2.6",
+    "parcel": "^2.2.1"
+  }
+}
