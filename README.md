@@ -7,7 +7,7 @@ Run any of these:
 | Command                                                                     | URL                          |
 | --------------------------------------------------------------------------- | ---------------------------- |
 | `npx serve` (or any static file server)                                     | <http://localhost:3000/src/> |
-| `npx vite`                                                                  | <http://localhost:3000/src/> |
+| `npx vite`                                                                  | <http://localhost:5173/src/> |
 | `npx wmr`                                                                   | <http://localhost:8080/src/> |
 | `npx esbuild src/index.js --format=esm --bundle --splitting --servedir=src` | <http://localhost:8000/src/> |
 
